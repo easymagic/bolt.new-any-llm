@@ -25,7 +25,7 @@ dist-ssr
 /.history
 /.cache
 /build
-# .env.local
+.env.local
 .env
 .dev.vars
 *.vars
